@@ -40,7 +40,7 @@ export const PORTFOLIO_ITEMS = [
     rightImage: "/assets/popupnew/fugukart2.webp",
   },
   {
-    ImageHref: "/assets/cocktails/faynthankss.webp",
+    ImageHref: "/assets/cocktails/faynthanks.webp",
     category: "Cocktails",
     title: "Fayn Thanks And You",
     description: "SIGNATURE COCKTAILS",
@@ -146,7 +146,7 @@ export const PORTFOLIO_ITEMS = [
     rightImage: "/assets/popupfoods/faynburgerkart2.webp",
   },
   {
-    ImageHref: "/assets/foods/BEEFKATSUVEGGIERICE.webp",
+    ImageHref: "/assets/foods/BEEFKATSU.webp",
     category: "foods",
     title: "Beef Katsu Veggie Rice",
     description: "SIGNATURE DISHES",
