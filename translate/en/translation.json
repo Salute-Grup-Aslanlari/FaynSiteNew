@@ -1,0 +1,109 @@
+{
+  "home": "HOME",
+  "about": "ABOUT",
+  "locations": "LOCATIONS",
+  "products": "PRODUCTS",
+  "exploreMenu": "Explore the Menu",
+  "eatFine": "EAT FINE",
+  "drinkFine": "DRINK FINE",
+  "feelFayn": "FEEL FAYN",
+  "description": "Welcome to Fayn, where exceptional flavors meet unforgettable experiences. Step into a world where sophistication meets comfort, and let us elevate your dining and entertainment experience to new heights.",
+  "whoweareTitle": "WHO ARE WE?",
+  "whoweareDescription": "FAYN, IS A VIBRANT GATHERING PLACE WHERE GUESTS (bar) (will) CAN ENJOY COCKTAILS, CUISINE, LIVE MUSIC, AND GREAT COMPANY.",
+  "weAreFayn": "We Are Fayn.",
+  "weAreFaynDescription": "A destination where every detail is designed to inspire connection and enjoyment. Here, exceptional cocktails, world-class cuisine, and live music come together to create an atmosphere that’s as vibrant as the city itself. Whether you're here to celebrate, unwind, or explore new flavors.",
+  "quality": {
+    "flavor": "FLAVOR",
+    "style": "STYLE",
+    "quality": "QUALITY"
+  },
+  "branches": {
+    "title": "BRANCHES",
+    "noImagesAvailable": "No images available"
+  },
+  "location": {
+    "title": "OUR LOCATIONS",
+    "reservation": "Reservation",
+    "select_branch": "SELECT BRANCH"
+  },
+  "newsletter": {
+    "title": "NEWSLETTER",
+    "description": "Stay in the loop with the latest news, events, and exclusive updates from Fayn Cocktails & More. Discover what’s happening behind the bar and beyond as we continue to craft unforgettable experiences for our guests."
+  },
+  "newsletterCard": {
+    "title": "IZMIR FASHION WEEK 2024",
+    "description": "Fayn Cocktails & More proudly sponsored İzmir Fashion Week 2024, celebrating creativity and style celebrating creativity and style."
+  },
+  "newsletterCardMissModel": {
+    "title": "MISS & MR. MODEL 2024",
+    "description": "Last summer, Fayn’99 Beach hosted the highly anticipated Miss & Mr. Model selection and the after-party, providing a glamorous setting for a night full of style and excitement."
+  },
+  "newsletterCardCocktail": {
+   "title": "COCKTAIL MASTERCLASS",
+   "description": "Fayn Cocktails & More recently hosted a series of exciting cocktail workshops, led by the acclaimed bartender Çağatay Ercan."
+  },
+  "newsletterCardDubai": {
+   "title": "Exciting Expansion: Fayn Coming Soon to Dubai ",
+   "description": "We are thrilled to announce that our beloved brands, Fayn, will soon be opening their Dubai branch at W Hotel The Palm."
+  },
+  "newsletterCardErcan": {
+   "title": "Meet Ercan – Fayn’s Beloved Resident Cat",
+   "description": "She’s not just our cat; she’s everyone’s cat. A true favorite among our customers, Ercan has a special way of making people feel at home."
+  },
+   "newsletterCardLoveFest": {
+    "title": "Fayn Presents: Love Fest; A Night of Cocktails, Fashion, and Celebration ",
+    "description": "Fayn proudly hosted Love Fest, an unforgettable evening where style, flavor, and connection came together in perfect harmony."
+  },
+ "coctailmasterclass": {
+  "title": "Fayn Cocktails & More recently hosted a series of exciting cocktail workshops",
+  "date": "August 30th 2024",
+  "description": "Fayn Cocktails & More recently hosted a series of exciting cocktail workshops, led by the acclaimed bartender Çağatay Ercan.",
+  "descriptiontwo": "During these engaging sessions participants had the opportunity to learn the fine art of cocktail making from selecting premium ingredients to mastering the perfect mix.\nÇağatay’s expert guidance helped attendees refine their skills and craft their own signature drinks.\nThe workshops were a great success providing a fun and educational experience for cocktail enthusiasts of all levels.\nFayn continues to offer unique opportunities like these, blending creativity with expert knowledge to elevate the cocktail experience."
+},
+ "missandmrmodel": {
+  "title": "PROVIDING A GLAMOROUS SETTING FOR A NIGHT FULL OF STYLE.",
+  "date": "August 30th 2024",
+  "description": "Last summer, Fayn’99 Beach hosted the highly anticipated Miss & Mr. Model selection and the after-party, providing a glamorous setting for a night full of style and excitement.",
+  "descriptiontwo": "The event brought together models from all over, who competed for the prestigious title, while guests enjoyed a vibrant atmosphere with live entertainment, delicious cocktails, and unforgettable memories. The after-party at Fayn’99 Beach was the perfect conclusion to the evening, offering a dynamic mix of fashion, fun, and flair. With expert-crafted cocktails, lively conversations, and a lively crowd, Fayn’99 Beach once again proved to be the ultimate destination for unforgettable events."
+},
+"izmirfashionweek": {
+ "title": "FAYN & IZMIR FASHION WEEK 2024, CELEBRATİNG FASHION AND FUN.",
+ "date": "August 30th 2024",
+ "description": "Fayn Cocktails & More proudly sponsored İzmir Fashion Week 2024, celebrating creativity and style.",
+ "descriptiontwo": "The event concluded with an unforgettable after-party at Fayn, where guests enjoyed signature cocktails, lively conversations, and captured memories in our vibrant atmosphere. It was a night filled with fun, fashion, and flair, perfectly reflecting the spirit of Fayn. Guests danced the night away, surrounded by a stunning blend of fashion and expertly crafted drinks. The event marked just the beginning of Fayn’s continued commitment to bringing people together through unforgettable experiences. Stay tuned for more events where we continue to mix creativity with community!"
+},
+"dubai": {
+ "title": "A New Chapter in Mixology: Fayn Lands in Dubai.",
+ "date": "July 30th 2024",
+ "description": "We are thrilled to announce that our beloved brands, Fayn, will soon be opening their Dubai branch at W Hotel The Palm.",
+ "descriptiontwo": "Fayn is more than just a cocktail bar; it’s a journey of creativity, taste, and interaction. Our Dubai branch will bring the same innovative experience where guests can craft their own drinks alongside our expert bartenders, blending entertainment with mixology like never before. Stay tuned for our grand opening and get ready to sip, shake, and savor."
+},
+"ercan": {
+ "title": "Fayn’s Feline Guardian – Always Watching Over Us",
+ "date": "July 30th 2024",
+ "description": "She’s not just our cat; she’s everyone’s cat. A true favorite among our customers, Ercan has a special way of making people feel at home.",
+ "descriptiontwo": "Ercan has been a part of Fayn since the very beginning, even before we officially opened our doors. She wandered in during the construction phase and decided to stay, making Fayn her home. Always calm and ever-present, Ercan has become a favorite among our customers, bringing warmth and charm to our space. Whether she’s lounging in her favorite spot or quietly keeping us company, Fayn wouldn’t be the same without her!"
+},
+"aboutus": {
+ "title": "ABOUT US",
+ "description": "Fayn, located in the heart of the city, is a vibrant gathering place where guests can enjoy cocktails, cuisine, live music, and great company. With its chic decor, inviting ambiance, and attentive staff, Fayn is the ideal choice for both casual meetings and special celebrations.",
+ "descriptionone": "Fayn is the perfect venue for both business gatherings and celebratory events.Its carefully curated menu showcases a fusion of global flavors,complemented by signature cocktails crafted with precision and dishes prepared using premium, fresh ingredients.",
+ "descriptiontwo": "Fayn enhances the guest experience with dynamic live DJ performances, providing an engaging atmosphere that complements its premium offerings. Committed to excellence, Fayn strives daily to exceed expectations,ensuring every visit leaves a lasting impression and fosters memorable experiences.",
+ "countries": "COUNTRIES",
+ "branches": "BRANCHES",
+ "customers": "CUSTOMERS",
+ "titleone": "OUR COLLABORATIONS",
+ "descriptionthree": " Our dedicated factory serves as the heart of our operation, where we produce the premium ingredients that define the food and cocktails served across all our branches. By creating our own ingredients, we ensure unmatched quality, consistency, and flavor in every dish and drink. This commitment to in-house production allows us to deliver a seamless and exceptional experience, uniting all our locations with the same standard of taste and excellence.",
+ "titletwo": " AT FAYN, WE TAKE FAYN PRIDE IN CRAFTING THE BEST."
+},
+"product": {
+  "title": "OUR PRODUCTS",
+  "our": "OUR",
+  "finest": "finest",
+  "drinks": "DRINKS & DISHES FROM THE MENU",
+  "description":"Discover a curated selection of our finest drinks and dishes, thoughtfully crafted to delight your senses. From signature cocktails to globally inspired cuisine, each item on our menu reflects our passion for quality and creativity. Indulge in flavors that elevate every moment.",
+  "all":"All",
+  "dishes":"Dishes",
+  "cocktail":"Cocktails"
+}
+}

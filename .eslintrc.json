@@ -1,0 +1,21 @@
+{
+  "extends": [
+    "next/core-web-vitals",
+    "plugin:react/recommended",
+    "plugin:react-hooks/recommended"
+  ],
+  "plugins": [
+    "react",
+    "react-hooks"
+  ],
+  "rules": {
+    "react/prop-types": "off",
+    "no-console": "warn",
+    "react/no-unknown-property": [
+      "error",
+      {
+        "ignore": ["initial", "animate", "transition"]
+      }
+    ]
+  }
+}

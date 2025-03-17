@@ -1,0 +1,90 @@
+@font-face {
+  font-family: 'Salina-Book';
+  src: url('/fonts/salina/Salina-Trial-Book-BF64b607e29dd58.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Salina-MediumItalic';
+  src: url('/fonts/salina/Salina-Trial-MediumItalic-BF64b607e30a326.otf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Source Sans 3';
+  font-style: italic;
+  font-weight: 200;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sourcesans3/v15/nwpBtKy2OAdR1K-IwhWudF-R9QMylBJAV3Bo8Kw462EH9CsKng.woff2) format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+@font-face {
+  font-family: 'Salina-TrialLight';
+  src: url('/fonts/salina/Salina-Trial-Light-BF64b607e2a98d5.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+@font-face {
+  font-family: 'Salina-Regular';
+  src: url('/fonts/Salina-Trial-Regular-BF64b607e2aa94e.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Salina-Book';
+  src: url('/fonts/salina/Salina-Trial-Book-BF64b607e29dd58.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Salina-BookItalic';
+  src: url('/fonts/salina/Salina-Trial-BookItalic-BF64b607e2dc77d.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: #000300;
+  font-family: 'Salina-Book', sans-serif;
+  font-weight: 300;
+}
+
+#about-capability-cards-wrapper {
+  height: 600px;
+  overflow: hidden;
+  perspective: 1000px;
+}
+
+.about-capability-card {
+  width: 200px;
+  height: 400px;
+  backface-visibility: hidden;
+  position: absolute;
+  transition: transform 0.1s ease, opacity 0.8s ease;
+  opacity: 0;
+}
+
+.slick-center {
+  @apply scale-125;
+}
+
+.slick-slide {
+  @apply transition-transform duration-500 ease-in-out;
+}
+
+.slick-slide:not(.slick-center) {
+  @apply opacity-70;
+}
+
+.slick-slide:nth-child(odd):not(.slick-center) {
+  transform: rotateY(-15deg);
+}
+
+.slick-slide:nth-child(even):not(.slick-center) {
+  transform: rotateY(15deg);
+}
