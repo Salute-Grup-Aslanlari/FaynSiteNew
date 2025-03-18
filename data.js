@@ -32,7 +32,7 @@ export const PORTFOLIO_ITEMS = [
     rightImage: "/assets/popupnew/prettyingreenkart2_1.webp",
   },
   {
-    ImageHref: "/assets/cocktails/FUGUWILLBEFAYN.webp",
+    ImageHref: "/assets/cocktails/fuguwillbefayn.webp",
     category: "Cocktails",
     title: "Fugu Will Be Fayn",
     description: "SIGNATURE COCKTAILS",
@@ -56,7 +56,7 @@ export const PORTFOLIO_ITEMS = [
     rightImage: "/assets/popupnew/reyhankart2.webp",
   },
   {
-    ImageHref: "/assets/cocktails/CHOCOLATENEGRONI.webp",
+    ImageHref: "/assets/cocktails/negroni.webp",
     category: "Cocktails",
     title: "Chocolate Negroni",
     description: "SIGNATURE COCKTAILS",
