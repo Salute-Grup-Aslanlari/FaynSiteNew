@@ -83,7 +83,7 @@ const Branches = ({ images = [] }) => {
     <>
       <div
         {...swipeHandlers}
-        className="flex flex-col items-center justify-center gap-2 sm:gap-10 mb-24 lg:mb-16 py-8 lg:py-6 px-4 lg:px-12 min-h-[350px] sm:min-h-[800px] md:min-h-[600px] lg:min-h-[400px] bg-[#E4E0D8] cursor-grab select-none touch-none overflow-x-hidden"
+        className="flex flex-col items-center justify-center gap-2 sm:gap-10 mb-24 lg:mb-16 py-8 lg:py-6 px-4 lg:px-12 min-h-[350px] sm:min-h-[800px] md:min-h-[600px] lg:min-h-[400px] bg-[#E4E0D8] cursor-grab select-none touch-auto overflow-x-hidden overflow-y-scroll;"
 
       >
         <div className="flex flex-col items-center mb-28 md:mb-0">
