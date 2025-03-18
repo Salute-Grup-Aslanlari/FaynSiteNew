@@ -58,7 +58,7 @@ export default function Home() {
       ref={container}
       className="flex items-center justify-center h-[700px] sm:h-[900px] lg:h-[900px] mt-[5vh] sm:mt-[8vh] lg:mt-[10vh] text-gray-300 px-4"
     >
-      <div className="w-full sm:max-w-[80%] lg:max-w-[70%] flex flex-wrap justify-center text-3xl sm:text-2xl md:text-6xl lg:text-6xl text-center leading-snug sm:leading-normal">
+      <div className="w-full sm:max-w-[80%] lg:max-w-[70%] flex flex-wrap justify-center text-3xl sm:text-2xl md:text-5xl lg:text-5xl text-center leading-snug sm:leading-normal">
         {splitWords(phrase)}
       </div>
     </main>
