@@ -26,10 +26,10 @@ const Card = ({ i, title, description, src, link, color, progress, range, target
   }, [date])
   
   return (
-    <div ref={container} className="h-[90vh] sm:h-[10vh] md:h-[110vh] flex items-center justify-center sticky top-5">
+    <div ref={container} className="h-[90vh] sm:h-[10vh] md:h-[110vh] flex items-center justify-center sticky top-[-13vh]">
      <motion.div
         style={{ backgroundColor: color, scale, top: `calc(${i * 50}px)` }}
-        className="relative flex flex-col h-[500px] w-[1000px] rounded-3xl p-10 transform-origin-top"
+        className="relative flex flex-col  h-[450px] w-[800px]  rounded-3xl p-10 transform-origin-top"
       >
         <h2 className="text-center lg:text-4xl sm:text-2xl" style={{ fontFamily: 'Salina-book, sans-serif' }}>{t(title)}</h2>
         <div className="flex h-full lg:mt-2 sm:gap-8 lg:gap-12 flex-col sm:flex-row">

@@ -21,11 +21,11 @@ const Branches = ({ images = [] }) => {
 
     if (screenWidth < 640) {
       positions = {
-        "-1": { x: -200, y: 0, scale: 1, opacity: 0.7, zIndex: 0, rotate: -5 },
-        "0": { x: 0, y: 0, scale: 1.2, opacity: 1, zIndex: 2, rotate: 0 },
-        "1": { x: 200, y: 0, scale: 1, opacity: 0.7, zIndex: 0, rotate: 5 },
+        "-1": { x: -120, y: 0, scale: 1, opacity: 0.7, zIndex: 0, rotate: -5 },
+        "0":  { x: 0,    y: 0, scale: 1.2, opacity: 1, zIndex: 2, rotate: 0 },
+        "1":  { x: 120,  y: 0, scale: 1, opacity: 0.7, zIndex: 0, rotate: 5 },
       };
-    } else if (screenWidth < 1024) {
+    }else if (screenWidth < 1024) {
       positions = {
         "-1": { x: -300, y: 0, scale: 1, opacity: 0.7, zIndex: 0, rotate: -6 },
         "0": { x: 0, y: 0, scale: 1.2, opacity: 1, zIndex: 2, rotate: 0 },
@@ -83,7 +83,8 @@ const Branches = ({ images = [] }) => {
     <>
       <div
         {...swipeHandlers}
-        className="flex flex-col items-center justify-center gap-2 sm:gap-32 mb-48 py-16 px-2 min-h-[350px] sm:min-h-[800px] md:min-h-[600px] bg-[#E4E0D8] cursor-grab select-none touch-none"
+        className="flex flex-col items-center justify-center gap-2 sm:gap-10 mb-24 lg:mb-16 py-8 lg:py-6 px-4 lg:px-12 min-h-[350px] sm:min-h-[800px] md:min-h-[600px] lg:min-h-[400px] bg-[#E4E0D8] cursor-grab select-none touch-none overflow-x-hidden"
+
       >
         <div className="flex flex-col items-center mb-28 md:mb-0">
           <h2
@@ -100,8 +101,8 @@ const Branches = ({ images = [] }) => {
                 <motion.div
                   key={key}
                   className="absolute sm:max-w-full overflow-hidden flex items-center justify-center 
-                            w-[60vw] sm:w-[40vw] md:w-[40vw] lg:w-[30vw] max-w-[400px] 
-                            h-[400px] sm:h-[400px] md:h-[100px] lg:h-[400px] 
+                            w-[60vw] sm:w-[40vw] md:w-[40vw] lg:w-[30vw] max-w-[300px] 
+                            h-[400px] sm:h-[400px] md:h-[100px] lg:h-[300px] 
                             will-change-transform transform-style-preserve-3d 
                             transform-origin-center-center backface-hidden"
                   initial={false}
@@ -118,8 +119,8 @@ const Branches = ({ images = [] }) => {
                   <Image
                     src={src}
                     alt={`Branch ${key}`}
-                    width={1000}
-                    height={900}
+                    width={900}
+                    height={700}
                     quality={100}
                     unoptimized={true}
                     className="w-full h-full object-cover rounded-3xl shadow-lg pointer-events-none"

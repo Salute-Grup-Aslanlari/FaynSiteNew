@@ -16,8 +16,8 @@ export const Quality = () => {
 
   return (
     <>
-      <div ref={containerRef} className="relative w-full mb-24 mt-36 px-4 md:px-8">
-        <h1 className="sr-only">Fayn Kalite Standartları</h1>
+      <div ref={containerRef}  className="relative w-full max-w-[450px] mx-auto mb-24 mt-24 px-4 md:px-8">
+        <h1 className="sr-only">Fayn</h1>
         {quality.map((item, index) => (
           <ImageSection
             key={index}
@@ -80,7 +80,7 @@ const ImageSection = ({ data, index, setActiveIndex, currentTitle, titleTranslat
           className="w-full rounded-lg shadow-lg block top-10 mb-20"
         />
         <motion.div
-          className="absolute bottom-[-40px] left-1/2 transform -translate-x-1/2 text-[6rem] sm:text-[12rem] text-white z-10 font-light"
+          className="absolute bottom-[-40px] left-1/2 transform -translate-x-1/2 text-[4rem] sm:text-[9rem] text-white z-10 font-light"
           style={{ fontFamily: 'Salina-Book, sans-serif' }}
           initial={{ opacity: 0 }}
           animate={{ opacity: currentTitle === data.title ? 1 : 0 }}
