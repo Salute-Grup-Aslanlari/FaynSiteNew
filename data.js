@@ -189,14 +189,6 @@ export const projects = [
       color: "#d67294"
     },
     {
-      title: "newsletterCardDubai.title",
-      description: "newsletterCardDubai.description",
-      src: "/assets/dubai1.webp",
-      date: "January 24, 2025",
-      link: "/Projects/dubai",
-      color: "#07a7f2"
-    },
-    {
       title: "newsletterCardErcan.title",
       description: "newsletterCardErcan.description",
       src: "/assets/ercankedi1.jpg",
