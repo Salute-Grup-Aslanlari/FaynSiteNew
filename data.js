@@ -167,7 +167,7 @@ export const projects = [
     {
       title: "newsletterCardMissModel.title",
       description: "newsletterCardMissModel.description",
-      src: "/assets/model1.webp",
+      src: "/assets/beachkapak.webp",
       date: "January 24, 2025",
       link: "/Projects/miss-mr-model-2024",
       color: "#AFAF3C"
@@ -175,7 +175,7 @@ export const projects = [
     {
       title: "newsletterCardCocktail.title",
       description: "newsletterCardCocktail.description",
-      src: "/assets/cagatay4.webp",
+      src: "/assets/cocktailfayn.png",
       date: "January 24, 2025",
       link: "/Projects/cocktail-masterclass",
       color: "#CA1B00"
