@@ -50,7 +50,7 @@ const CoctailMasterclass = () => {
         transition={{ duration: 1 }}
       >
         <Image
-            src="/assets/coctaildetail1.webp"
+            src="/assets/coctailfayn.png"
             alt="Coctail Masterclass etkinliği"
             fill
             className="object-cover"
@@ -66,7 +66,7 @@ const CoctailMasterclass = () => {
         >
           <div className="relative w-full max-w-[400px] h-[500px] sm:h-[600px]">
             <Image
-                src="/assets/coctaildetail2.webp"
+                src="/assets/fayncoctail.jpg"
                 alt="Coctail Masterclass katılımcıları"
                 layout="fill"
                 objectFit="cover"

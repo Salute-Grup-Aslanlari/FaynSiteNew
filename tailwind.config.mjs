@@ -19,9 +19,9 @@ export default {
         },
       },
       animation: {
-        'spin-slow': 'spin 2s linear infinite', // 10 saniyede tam tur
-        'fade-in': 'fadeIn 1s ease-out forwards', // Yeni eklenen fade-in animasyonu
-        'slide-in': 'slideIn 1s ease-out forwards', // Yeni eklenen slide-in animasyonu
+        'spin-slow': 'spin 2s linear infinite',
+        'fade-in': 'fadeIn 1s ease-out forwards',
+        'slide-in': 'slideIn 1s ease-out forwards',
       },
       colors: {
         background: "var(--background)",
