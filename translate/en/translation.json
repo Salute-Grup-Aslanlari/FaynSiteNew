@@ -51,8 +51,12 @@
    "description": "She’s not just our cat; she’s everyone’s cat. A true favorite among our customers, Ercan has a special way of making people feel at home."
   },
    "newsletterCardLoveFest": {
-    "title": "Fayn Presents: Love Fest; A Night of Cocktails, Fashion, and Celebration ",
+    "title": "Fayn Presents: Love Fest; A Night of Cocktails, Fashion, and Celebration",
     "description": "Fayn proudly hosted Love Fest, an unforgettable evening where style, flavor, and connection came together in perfect harmony."
+  },
+   "newsletterCardLara": {
+    "title": "Fayn is coming to Lara this summer!",
+    "description": "We’re excited to announce that Fayn’s unique cocktail experience is heading to the sun-kissed shores of Antalya, Lara. "
   },
  "coctailmasterclass": {
   "title": "Fayn Cocktails & More recently hosted a series of exciting cocktail workshops",
@@ -83,6 +87,12 @@
  "date": "July 30th 2024",
  "description": "She’s not just our cat; she’s everyone’s cat. A true favorite among our customers, Ercan has a special way of making people feel at home.",
  "descriptiontwo": "Ercan has been a part of Fayn since the very beginning, even before we officially opened our doors. She wandered in during the construction phase and decided to stay, making Fayn her home. Always calm and ever-present, Ercan has become a favorite among our customers, bringing warmth and charm to our space. Whether she’s lounging in her favorite spot or quietly keeping us company, Fayn wouldn’t be the same without her!"
+},
+"lara": {
+ "title": "Fayn is coming to Lara this summer!",
+ "date": "May 25th 2025",
+ "description": "We’re excited to announce that Fayn’s unique cocktail experience is heading to the sun-kissed shores of Antalya, Lara.",
+ "descriptiontwo": "Opening this summer, Fayn Lara will bring our signature blend of craftsmanship, creativity, and connection to one of Turkey’s most vibrant coastal destinations. Set against the backdrop of the Mediterranean, Fayn Lara will offer a refined yet relaxed atmosphere where each cocktail is a moment to savor. Whether you're unwinding after a day in the sun or stepping into an evening of seaside elegance, our bar will be the place where stories begin, and flavors linger. Get ready for an immersive escape where bold tastes meet breathtaking moments."
 },
 "aboutus": {
  "title": "ABOUT US",

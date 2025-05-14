@@ -195,6 +195,14 @@ export const projects = [
       date: "January 24, 2025",
       link: "/Projects/ercan",
       color: "#ff7f07"
+    },
+    {
+      title: "newsletterCardLara.title",
+      description: "newsletterCardLara.description",
+      src: "/assets/laraimage2.jpg",
+      date: "May 14, 2025",
+      link: "/Projects/lara",
+      color: "#8fa8cc"
     }
   ];
  export const locations = [

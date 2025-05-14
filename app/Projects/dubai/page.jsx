@@ -21,7 +21,7 @@ const Dubai = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.8 }}
       >
-        001
+        002
       </motion.p>
 
       <motion.div 
